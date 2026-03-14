@@ -20,6 +20,11 @@ Uma plataforma completa de simulados gamificados.
 - **Destaque:** Sistema de conquistas (Bronze a Diamante) validado no servidor.
 - **Tech:** Full Stack JS com Supabase.
 
+#### [Caroba Contabilidade](https://github.com/SamuelzimMVP)
+Sistema de gestão contábil focado em automação e produtividade.
+- **Destaque:** Interface profissional focada em UX para contadores.
+- **Tech:** JavaScript, CSS Moderno e gestão de dados.
+
 ---
 
 ###  Minhas Estatísticas do GitHub
